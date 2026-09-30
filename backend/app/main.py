@@ -6,7 +6,7 @@ import time
 from collections import defaultdict
 
 from backend.app.config.settings import settings
-from backend.app.database.session import Base, engine
+from backend.app.database.session import Base, engine, init_db_schema
 from backend.app.alerts.notification import ws_manager
 
 # Import all API v1 routers
@@ -26,8 +26,8 @@ from backend.app.api.v1.ai import router as ai_router
 from backend.app.api.v1.simulation import router as simulation_router
 from backend.app.api.v1.system import router as system_router
 
-# Initialize database schema tables
-Base.metadata.create_all(bind=engine)
+# Initialize database schema tables inside isolated 'pravaah' namespace
+init_db_schema()
 
 app = FastAPI(
     title=settings.PROJECT_NAME,

@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")
 import bcrypt
 from geoalchemy2.elements import WKTElement
 
-from backend.app.database.session import Base, engine, SessionLocal
+from backend.app.database.session import Base, engine, SessionLocal, init_db_schema
 from backend.app.models.user import User
 from backend.app.models.account import Account
 from backend.app.models.atm import ATM
@@ -32,8 +32,8 @@ def hash_pw(pw: str) -> str:
     return bcrypt.hashpw(pw.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
 
 def seed_database():
-    print("Initializing PRAVAAH Database Schema...")
-    Base.metadata.create_all(bind=engine)
+    print("Initializing PRAVAAH Database Schema in 'pravaah' namespace...")
+    init_db_schema()
     db = SessionLocal()
 
     try:

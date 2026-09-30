@@ -2,18 +2,10 @@
 # PRAVAAH — Predictive Risk And Vulnerability Analysis for ATM Activity & Hotspots
 # Render Blueprint (render.yaml) for Complete Production Cloud Architecture
 # ==============================================================================
-# Defines 3 core tiers:
-# 1. Database: Managed PostgreSQL 15 with PostGIS Spatial Extensions
-# 2. Backend: FastAPI Python ASGI Web Service with ML Model Artifacts & WebSockets
-# 3. Frontend: React 18 / TypeScript SPA Static Site with Global CDN & Rewrite Rules
+# Services:
+# 1. Backend: FastAPI Python ASGI Web Service (reusing existing crimegraph-db)
+# 2. Frontend: React 18 / TypeScript SPA Static Site with Global CDN & Rewrite Rules
 # ==============================================================================
-
-databases:
-  - name: pravaah-db
-    databaseName: pravaah
-    user: pravaah_admin
-    plan: free
-    postgresMajorVersion: 15
 
 services:
   # --------------------------------------------------------------------------
@@ -23,14 +15,14 @@ services:
     name: pravaah-backend
     runtime: python
     plan: free
-    region: oregon # or ohio, frankfurt, singapore
+    region: oregon
     buildCommand: pip install --upgrade pip && pip install -r requirements.txt
     startCommand: python scripts/seed_database.py && uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT --workers 2
     healthCheckPath: /api/v1/system/health
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: pravaah-db
+          name: crimegraph-db
           property: connectionString
       - key: JWT_SECRET
         generateValue: true
