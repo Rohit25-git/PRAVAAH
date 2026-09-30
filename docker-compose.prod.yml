@@ -1,0 +1,93 @@
+﻿version: '3.8'
+
+services:
+  # 1. Edge Ingress: Automated HTTPS / Let's Encrypt TLS Termination
+  caddy:
+    image: caddy:2-alpine
+    container_name: pravaah-caddy-edge
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp" # HTTP/3 QUIC
+    environment:
+      - PUBLIC_DOMAIN=${PUBLIC_DOMAIN:-localhost}
+      - ACME_EMAIL=${ACME_EMAIL:-admin@pravaah.gov.in}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - pravaah-caddy-data:/data
+      - pravaah-caddy-config:/config
+    depends_on:
+      - frontend
+    networks:
+      - pravaah-network
+
+  # 2. Frontend Web Server (SPA & internal routing)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: pravaah-frontend
+    restart: unless-stopped
+    depends_on:
+      backend:
+        condition: service_started
+    networks:
+      - pravaah-network
+
+  # 3. FastAPI ASGI Backend with ML Models
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: pravaah-backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - ENVIRONMENT=production
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-pravaah_admin}:${POSTGRES_PASSWORD:-PravaahSecure2026!}@db:5432/${POSTGRES_DB:-pravaah}
+      - JWT_SECRET=${JWT_SECRET:-pravaah-super-secure-jwt-secret-key-2026-production}
+      - ACCESS_TOKEN_EXPIRE_MINUTES=${ACCESS_TOKEN_EXPIRE_MINUTES:-480}
+      - GROQ_API_KEY=${GROQ_API_KEY:-}
+      - GROQ_MODEL=${GROQ_MODEL:-qwen/qwen3.8-27b}
+      - UVICORN_WORKERS=4
+    volumes:
+      - ./data:/app/data
+      - ./ml/models:/app/ml/models
+      - ./ml/artifacts:/app/ml/artifacts
+    networks:
+      - pravaah-network
+
+  # 4. PostgreSQL with PostGIS Spatial Extensions
+  db:
+    image: postgis/postgis:15-3.3-alpine
+    container_name: pravaah-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-pravaah}
+      POSTGRES_USER: ${POSTGRES_USER:-pravaah_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-PravaahSecure2026!}
+    volumes:
+      - pravaah-pgdata:/var/lib/postgresql/data
+      - ./scripts/init-postgis.sh:/docker-entrypoint-initdb.d/10-init-postgis.sh:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-pravaah_admin} -d ${POSTGRES_DB:-pravaah}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - pravaah-network
+
+volumes:
+  pravaah-pgdata:
+    name: pravaah-pgdata
+  pravaah-caddy-data:
+    name: pravaah-caddy-data
+  pravaah-caddy-config:
+    name: pravaah-caddy-config
+
+networks:
+  pravaah-network:
+    name: pravaah-network

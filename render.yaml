@@ -1,0 +1,66 @@
+# ==============================================================================
+# PRAVAAH — Predictive Risk And Vulnerability Analysis for ATM Activity & Hotspots
+# Render Blueprint (render.yaml) for Complete Production Cloud Architecture
+# ==============================================================================
+# Defines 3 core tiers:
+# 1. Database: Managed PostgreSQL 15 with PostGIS Spatial Extensions
+# 2. Backend: FastAPI Python ASGI Web Service with ML Model Artifacts & WebSockets
+# 3. Frontend: React 18 / TypeScript SPA Static Site with Global CDN & Rewrite Rules
+# ==============================================================================
+
+databases:
+  - name: pravaah-db
+    databaseName: pravaah
+    user: pravaah_admin
+    plan: free
+    postgresMajorVersion: 15
+
+services:
+  # --------------------------------------------------------------------------
+  # 1. FastAPI ASGI Backend Web Service
+  # --------------------------------------------------------------------------
+  - type: web
+    name: pravaah-backend
+    runtime: python
+    plan: free
+    region: oregon # or ohio, frankfurt, singapore
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: python scripts/seed_database.py && uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT --workers 2
+    healthCheckPath: /api/v1/system/health
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: pravaah-db
+          property: connectionString
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ENVIRONMENT
+        value: production
+      - key: ACCESS_TOKEN_EXPIRE_MINUTES
+        value: 1440
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: qwen/qwen3.8-27b
+      - key: OLLAMA_BASE_URL
+        value: http://localhost:11434
+      - key: OLLAMA_MODEL
+        value: llama3.2
+
+  # --------------------------------------------------------------------------
+  # 2. React 18 SPA Frontend (Global CDN Static Site)
+  # --------------------------------------------------------------------------
+  - type: static
+    name: pravaah-frontend
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        value: https://pravaah-backend.onrender.com

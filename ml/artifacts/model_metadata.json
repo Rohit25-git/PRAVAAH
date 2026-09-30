@@ -1,0 +1,64 @@
+{
+  "model_version": "v1.4-rf-supervised",
+  "training_timestamp": "2026-09-29T13:17:59.631326",
+  "evaluation_metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "false_positive_rate": 0.0,
+    "baseline_f1": 0.1395
+  },
+  "top_complaint_features": [
+    {
+      "feature": "complaint_to_withdrawal_relationship",
+      "importance": 0.1099
+    },
+    {
+      "feature": "crime_category_frequency",
+      "importance": 0.0351
+    },
+    {
+      "feature": "complaint_growth_rate",
+      "importance": 0.0235
+    },
+    {
+      "feature": "complaint_density",
+      "importance": 0.0218
+    }
+  ],
+  "feature_columns": [
+    "transaction_count",
+    "withdrawal_count",
+    "total_amount",
+    "average_amount",
+    "maximum_amount",
+    "amount_velocity",
+    "withdrawal_frequency",
+    "hour",
+    "day_of_week",
+    "weekend_indicator",
+    "activity_change_rate",
+    "complaint_count",
+    "complaint_recency",
+    "complaint_growth_rate",
+    "crime_category_frequency",
+    "complaint_density",
+    "complaint_to_withdrawal_relationship",
+    "nearby_complaints",
+    "nearby_transactions",
+    "nearby_atms",
+    "local_transaction_density",
+    "local_complaint_density",
+    "distance_to_nearest_atm",
+    "degree",
+    "pagerank",
+    "betweenness",
+    "linked_accounts",
+    "shared_phone_count"
+  ],
+  "class_distribution": {
+    "positive": 22,
+    "negative": 378
+  }
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "zone_id": "ZONE-001",
+    "zone_name": "Central Delhi Sector 1",
+    "district": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.625054,
+    "longitude": 77.171001
+  },
+  {
+    "zone_id": "ZONE-002",
+    "zone_name": "Central Delhi Sector 2",
+    "district": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.595902,
+    "longitude": 77.186857
+  },
+  {
+    "zone_id": "ZONE-003",
+    "zone_name": "Central Delhi Sector 3",
+    "district": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.632818,
+    "longitude": 77.223136
+  },
+  {
+    "zone_id": "ZONE-004",
+    "zone_name": "Central Delhi Sector 4",
+    "district": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.645274,
+    "longitude": 77.175955
+  },
+  {
+    "zone_id": "ZONE-005",
+    "zone_name": "Central Delhi Sector 5",
+    "district": "Central Delhi",
+    "state": "Delhi",
+    "latitude": 28.607654,
+    "longitude": 77.171384
+  },
+  {
+    "zone_id": "ZONE-006",
+    "zone_name": "South Delhi Sector 1",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.512991,
+    "longitude": 77.241428
+  },
+  {
+    "zone_id": "ZONE-007",
+    "zone_name": "South Delhi Sector 2",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.497623,
+    "longitude": 77.216907
+  },
+  {
+    "zone_id": "ZONE-008",
+    "zone_name": "South Delhi Sector 3",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.547491,
+    "longitude": 77.244595
+  },
+  {
+    "zone_id": "ZONE-009",
+    "zone_name": "South Delhi Sector 4",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.513135,
+    "longitude": 77.248141
+  },
+  {
+    "zone_id": "ZONE-010",
+    "zone_name": "South Delhi Sector 5",
+    "district": "South Delhi",
+    "state": "Delhi",
+    "latitude": 28.560254,
+    "longitude": 77.20152
+  },
+  {
+    "zone_id": "ZONE-011",
+    "zone_name": "East Delhi Sector 1",
+    "district": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.652466,
+    "longitude": 77.310851
+  },
+  {
+    "zone_id": "ZONE-012",
+    "zone_name": "East Delhi Sector 2",
+    "district": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.61522,
+    "longitude": 77.267438
+  },
+  {
+    "zone_id": "ZONE-013",
+    "zone_name": "East Delhi Sector 3",
+    "district": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.664577,
+    "longitude": 77.281928
+  },
+  {
+    "zone_id": "ZONE-014",
+    "zone_name": "East Delhi Sector 4",
+    "district": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.59542,
+    "longitude": 77.262737
+  },
+  {
+    "zone_id": "ZONE-015",
+    "zone_name": "East Delhi Sector 5",
+    "district": "East Delhi",
+    "state": "Delhi",
+    "latitude": 28.6558,
+    "longitude": 77.303298
+  },
+  {
+    "zone_id": "ZONE-016",
+    "zone_name": "Mumbai City Sector 1",
+    "district": "Mumbai City",
+    "state": "Maharashtra",
+    "latitude": 18.96337,
+    "longitude": 72.853779
+  },
+  {
+    "zone_id": "ZONE-017",
+    "zone_name": "Mumbai City Sector 2",
+    "district": "Mumbai City",
+    "state": "Maharashtra",
+    "latitude": 18.941698,
+    "longitude": 72.873249
+  },
+  {
+    "zone_id": "ZONE-018",
+    "zone_name": "Mumbai City Sector 3",
+    "district": "Mumbai City",
+    "state": "Maharashtra",
+    "latitude": 18.929083,
+    "longitude": 72.839563
+  },
+  {
+    "zone_id": "ZONE-019",
+    "zone_name": "Mumbai City Sector 4",
+    "district": "Mumbai City",
+    "state": "Maharashtra",
+    "latitude": 18.965152,
+    "longitude": 72.844882
+  },
+  {
+    "zone_id": "ZONE-020",
+    "zone_name": "Mumbai City Sector 5",
+    "district": "Mumbai City",
+    "state": "Maharashtra",
+    "latitude": 18.967737,
+    "longitude": 72.841588
+  },
+  {
+    "zone_id": "ZONE-021",
+    "zone_name": "Mumbai Suburban Sector 1",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "latitude": 19.129966,
+    "longitude": 72.833366
+  },
+  {
+    "zone_id": "ZONE-022",
+    "zone_name": "Mumbai Suburban Sector 2",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "latitude": 19.091832,
+    "longitude": 72.852851
+  },
+  {
+    "zone_id": "ZONE-023",
+    "zone_name": "Mumbai Suburban Sector 3",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "latitude": 19.079983,
+    "longitude": 72.848323
+  },
+  {
+    "zone_id": "ZONE-024",
+    "zone_name": "Mumbai Suburban Sector 4",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "latitude": 19.08168,
+    "longitude": 72.851938
+  },
+  {
+    "zone_id": "ZONE-025",
+    "zone_name": "Mumbai Suburban Sector 5",
+    "district": "Mumbai Suburban",
+    "state": "Maharashtra",
+    "latitude": 19.124455,
+    "longitude": 72.858887
+  },
+  {
+    "zone_id": "ZONE-026",
+    "zone_name": "Pune Sector 1",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.510014,
+    "longitude": 73.833461
+  },
+  {
+    "zone_id": "ZONE-027",
+    "zone_name": "Pune Sector 2",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.501758,
+    "longitude": 73.891632
+  },
+  {
+    "zone_id": "ZONE-028",
+    "zone_name": "Pune Sector 3",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.532243,
+    "longitude": 73.86543
+  },
+  {
+    "zone_id": "ZONE-029",
+    "zone_name": "Pune Sector 4",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.494091,
+    "longitude": 73.87503
+  },
+  {
+    "zone_id": "ZONE-030",
+    "zone_name": "Pune Sector 5",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "latitude": 18.493472,
+    "longitude": 73.847056
+  },
+  {
+    "zone_id": "ZONE-031",
+    "zone_name": "Bengaluru Urban Sector 1",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 13.010762,
+    "longitude": 77.6058
+  },
+  {
+    "zone_id": "ZONE-032",
+    "zone_name": "Bengaluru Urban Sector 2",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 12.976156,
+    "longitude": 77.609369
+  },
+  {
+    "zone_id": "ZONE-033",
+    "zone_name": "Bengaluru Urban Sector 3",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 12.999028,
+    "longitude": 77.61668
+  },
+  {
+    "zone_id": "ZONE-034",
+    "zone_name": "Bengaluru Urban Sector 4",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 12.949924,
+    "longitude": 77.557168
+  },
+  {
+    "zone_id": "ZONE-035",
+    "zone_name": "Bengaluru Urban Sector 5",
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "latitude": 12.956836,
+    "longitude": 77.576019
+  },
+  {
+    "zone_id": "ZONE-036",
+    "zone_name": "Bengaluru Rural Sector 1",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "latitude": 13.204879,
+    "longitude": 77.610433
+  },
+  {
+    "zone_id": "ZONE-037",
+    "zone_name": "Bengaluru Rural Sector 2",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "latitude": 13.258109,
+    "longitude": 77.560174
+  },
+  {
+    "zone_id": "ZONE-038",
+    "zone_name": "Bengaluru Rural Sector 3",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "latitude": 13.240435,
+    "longitude": 77.566651
+  },
+  {
+    "zone_id": "ZONE-039",
+    "zone_name": "Bengaluru Rural Sector 4",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "latitude": 13.261164,
+    "longitude": 77.571708
+  },
+  {
+    "zone_id": "ZONE-040",
+    "zone_name": "Bengaluru Rural Sector 5",
+    "district": "Bengaluru Rural",
+    "state": "Karnataka",
+    "latitude": 13.20919,
+    "longitude": 77.55473
+  },
+  {
+    "zone_id": "ZONE-041",
+    "zone_name": "Hyderabad Sector 1",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.389909,
+    "longitude": 78.467719
+  },
+  {
+    "zone_id": "ZONE-042",
+    "zone_name": "Hyderabad Sector 2",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.391767,
+    "longitude": 78.518526
+  },
+  {
+    "zone_id": "ZONE-043",
+    "zone_name": "Hyderabad Sector 3",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.376952,
+    "longitude": 78.464246
+  },
+  {
+    "zone_id": "ZONE-044",
+    "zone_name": "Hyderabad Sector 4",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.424803,
+    "longitude": 78.487462
+  },
+  {
+    "zone_id": "ZONE-045",
+    "zone_name": "Hyderabad Sector 5",
+    "district": "Hyderabad",
+    "state": "Telangana",
+    "latitude": 17.352273,
+    "longitude": 78.450469
+  },
+  {
+    "zone_id": "ZONE-046",
+    "zone_name": "Chennai Sector 1",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.051472,
+    "longitude": 80.280896
+  },
+  {
+    "zone_id": "ZONE-047",
+    "zone_name": "Chennai Sector 2",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.106066,
+    "longitude": 80.264473
+  },
+  {
+    "zone_id": "ZONE-048",
+    "zone_name": "Chennai Sector 3",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.047782,
+    "longitude": 80.26123
+  },
+  {
+    "zone_id": "ZONE-049",
+    "zone_name": "Chennai Sector 4",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.12239,
+    "longitude": 80.273029
+  },
+  {
+    "zone_id": "ZONE-050",
+    "zone_name": "Chennai Sector 5",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "latitude": 13.120386,
+    "longitude": 80.299562
+  },
+  {
+    "zone_id": "ZONE-051",
+    "zone_name": "Kolkata Sector 1",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.533518,
+    "longitude": 88.381558
+  },
+  {
+    "zone_id": "ZONE-052",
+    "zone_name": "Kolkata Sector 2",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.587137,
+    "longitude": 88.366858
+  },
+  {
+    "zone_id": "ZONE-053",
+    "zone_name": "Kolkata Sector 3",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.553946,
+    "longitude": 88.375177
+  },
+  {
+    "zone_id": "ZONE-054",
+    "zone_name": "Kolkata Sector 4",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.541524,
+    "longitude": 88.358681
+  },
+  {
+    "zone_id": "ZONE-055",
+    "zone_name": "Kolkata Sector 5",
+    "district": "Kolkata",
+    "state": "West Bengal",
+    "latitude": 22.568898,
+    "longitude": 88.400205
+  },
+  {
+    "zone_id": "ZONE-056",
+    "zone_name": "Ahmedabad Sector 1",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.052568,
+    "longitude": 72.552471
+  },
+  {
+    "zone_id": "ZONE-057",
+    "zone_name": "Ahmedabad Sector 2",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.022547,
+    "longitude": 72.545692
+  },
+  {
+    "zone_id": "ZONE-058",
+    "zone_name": "Ahmedabad Sector 3",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.05551,
+    "longitude": 72.601041
+  },
+  {
+    "zone_id": "ZONE-059",
+    "zone_name": "Ahmedabad Sector 4",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.006376,
+    "longitude": 72.582516
+  },
+  {
+    "zone_id": "ZONE-060",
+    "zone_name": "Ahmedabad Sector 5",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": 23.031218,
+    "longitude": 72.543627
+  },
+  {
+    "zone_id": "ZONE-061",
+    "zone_name": "Jaipur Sector 1",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.933401,
+    "longitude": 75.79045
+  },
+  {
+    "zone_id": "ZONE-062",
+    "zone_name": "Jaipur Sector 2",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.93469,
+    "longitude": 75.789728
+  },
+  {
+    "zone_id": "ZONE-063",
+    "zone_name": "Jaipur Sector 3",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.872446,
+    "longitude": 75.773232
+  },
+  {
+    "zone_id": "ZONE-064",
+    "zone_name": "Jaipur Sector 4",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.873958,
+    "longitude": 75.821628
+  },
+  {
+    "zone_id": "ZONE-065",
+    "zone_name": "Jaipur Sector 5",
+    "district": "Jaipur",
+    "state": "Rajasthan",
+    "latitude": 26.942698,
+    "longitude": 75.813833
+  },
+  {
+    "zone_id": "ZONE-066",
+    "zone_name": "Noida Sector 1",
+    "district": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.520101,
+    "longitude": 77.355634
+  },
+  {
+    "zone_id": "ZONE-067",
+    "zone_name": "Noida Sector 2",
+    "district": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.565741,
+    "longitude": 77.426756
+  },
+  {
+    "zone_id": "ZONE-068",
+    "zone_name": "Noida Sector 3",
+    "district": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.502352,
+    "longitude": 77.389879
+  },
+  {
+    "zone_id": "ZONE-069",
+    "zone_name": "Noida Sector 4",
+    "district": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.501037,
+    "longitude": 77.411848
+  },
+  {
+    "zone_id": "ZONE-070",
+    "zone_name": "Noida Sector 5",
+    "district": "Noida",
+    "state": "Uttar Pradesh",
+    "latitude": 28.556767,
+    "longitude": 77.361271
+  },
+  {
+    "zone_id": "ZONE-071",
+    "zone_name": "Lucknow Sector 1",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.844723,
+    "longitude": 80.950184
+  },
+  {
+    "zone_id": "ZONE-072",
+    "zone_name": "Lucknow Sector 2",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.827905,
+    "longitude": 80.975995
+  },
+  {
+    "zone_id": "ZONE-073",
+    "zone_name": "Lucknow Sector 3",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.840551,
+    "longitude": 80.923144
+  },
+  {
+    "zone_id": "ZONE-074",
+    "zone_name": "Lucknow Sector 4",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.849844,
+    "longitude": 80.964594
+  },
+  {
+    "zone_id": "ZONE-075",
+    "zone_name": "Lucknow Sector 5",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh",
+    "latitude": 26.822792,
+    "longitude": 80.931137
+  },
+  {
+    "zone_id": "ZONE-076",
+    "zone_name": "Gurugram Sector 1",
+    "district": "Gurugram",
+    "state": "Haryana",
+    "latitude": 28.499112,
+    "longitude": 77.03859
+  },
+  {
+    "zone_id": "ZONE-077",
+    "zone_name": "Gurugram Sector 2",
+    "district": "Gurugram",
+    "state": "Haryana",
+    "latitude": 28.454548,
+    "longitude": 77.028006
+  },
+  {
+    "zone_id": "ZONE-078",
+    "zone_name": "Gurugram Sector 3",
+    "district": "Gurugram",
+    "state": "Haryana",
+    "latitude": 28.42918,
+    "longitude": 77.004576
+  },
+  {
+    "zone_id": "ZONE-079",
+    "zone_name": "Gurugram Sector 4",
+    "district": "Gurugram",
+    "state": "Haryana",
+    "latitude": 28.446547,
+    "longitude": 77.033665
+  },
+  {
+    "zone_id": "ZONE-080",
+    "zone_name": "Gurugram Sector 5",
+    "district": "Gurugram",
+    "state": "Haryana",
+    "latitude": 28.437909,
+    "longitude": 77.004217
+  },
+  {
+    "zone_id": "ZONE-081",
+    "zone_name": "Indore Sector 1",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.685279,
+    "longitude": 75.868188
+  },
+  {
+    "zone_id": "ZONE-082",
+    "zone_name": "Indore Sector 2",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.697915,
+    "longitude": 75.890134
+  },
+  {
+    "zone_id": "ZONE-083",
+    "zone_name": "Indore Sector 3",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.748371,
+    "longitude": 75.823369
+  },
+  {
+    "zone_id": "ZONE-084",
+    "zone_name": "Indore Sector 4",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.69864,
+    "longitude": 75.871218
+  },
+  {
+    "zone_id": "ZONE-085",
+    "zone_name": "Indore Sector 5",
+    "district": "Indore",
+    "state": "Madhya Pradesh",
+    "latitude": 22.696739,
+    "longitude": 75.828285
+  },
+  {
+    "zone_id": "ZONE-086",
+    "zone_name": "Ludhiana Sector 1",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.935841,
+    "longitude": 75.862983
+  },
+  {
+    "zone_id": "ZONE-087",
+    "zone_name": "Ludhiana Sector 2",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.898814,
+    "longitude": 75.88007
+  },
+  {
+    "zone_id": "ZONE-088",
+    "zone_name": "Ludhiana Sector 3",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.9256,
+    "longitude": 75.832533
+  },
+  {
+    "zone_id": "ZONE-089",
+    "zone_name": "Ludhiana Sector 4",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.868754,
+    "longitude": 75.851784
+  },
+  {
+    "zone_id": "ZONE-090",
+    "zone_name": "Ludhiana Sector 5",
+    "district": "Ludhiana",
+    "state": "Punjab",
+    "latitude": 30.894886,
+    "longitude": 75.854662
+  },
+  {
+    "zone_id": "ZONE-091",
+    "zone_name": "Ernakulam Sector 1",
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 9.999926,
+    "longitude": 76.313769
+  },
+  {
+    "zone_id": "ZONE-092",
+    "zone_name": "Ernakulam Sector 2",
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 10.020333,
+    "longitude": 76.267773
+  },
+  {
+    "zone_id": "ZONE-093",
+    "zone_name": "Ernakulam Sector 3",
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 9.97381,
+    "longitude": 76.287044
+  },
+  {
+    "zone_id": "ZONE-094",
+    "zone_name": "Ernakulam Sector 4",
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 10.010534,
+    "longitude": 76.279793
+  },
+  {
+    "zone_id": "ZONE-095",
+    "zone_name": "Ernakulam Sector 5",
+    "district": "Ernakulam",
+    "state": "Kerala",
+    "latitude": 9.956817,
+    "longitude": 76.295789
+  },
+  {
+    "zone_id": "ZONE-096",
+    "zone_name": "Patna Sector 1",
+    "district": "Patna",
+    "state": "Bihar",
+    "latitude": 25.587851,
+    "longitude": 85.119884
+  },
+  {
+    "zone_id": "ZONE-097",
+    "zone_name": "Patna Sector 2",
+    "district": "Patna",
+    "state": "Bihar",
+    "latitude": 25.574085,
+    "longitude": 85.171461
+  },
+  {
+    "zone_id": "ZONE-098",
+    "zone_name": "Patna Sector 3",
+    "district": "Patna",
+    "state": "Bihar",
+    "latitude": 25.58955,
+    "longitude": 85.166508
+  },
+  {
+    "zone_id": "ZONE-099",
+    "zone_name": "Patna Sector 4",
+    "district": "Patna",
+    "state": "Bihar",
+    "latitude": 25.598126,
+    "longitude": 85.101647
+  },
+  {
+    "zone_id": "ZONE-100",
+    "zone_name": "Patna Sector 5",
+    "district": "Patna",
+    "state": "Bihar",
+    "latitude": 25.634043,
+    "longitude": 85.164482
+  }
+]

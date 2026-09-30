@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+:root {
+  /* Bright Modern RGB Surfaces */
+  --bg-primary: rgb(248, 250, 252);     /* Slate 50 clean light background */
+  --bg-secondary: rgb(255, 255, 255);   /* Crisp pure white */
+  --card: rgb(255, 255, 255);           /* Bright white card surface */
+  --card-border: rgb(226, 232, 240);    /* Slate 200 crisp divider */
+  --card-subtle: rgb(241, 245, 249);    /* Slate 100 subtle element container */
+
+  /* Vibrant RGB Accent Colors */
+  --blue: rgb(37, 99, 235);             /* Royal Blue - primary actions */
+  --cyan: rgb(6, 182, 212);             /* Electric Cyan - predictive / AI */
+  --purple: rgb(124, 58, 237);          /* Vibrant Purple - graph intelligence */
+  --indigo: rgb(79, 70, 229);           /* Deep Indigo */
+  --green: rgb(16, 185, 129);           /* Emerald Green - low risk, safe */
+  --yellow: rgb(245, 158, 11);          /* Amber - medium risk, warning */
+  --orange: rgb(249, 115, 22);          /* Bright Orange - high risk */
+  --red: rgb(239, 68, 68);              /* Crimson Red - critical risk, alerts */
+
+  /* Sharp High-Contrast Typography */
+  --text-primary: rgb(15, 23, 42);      /* Slate 900 primary text */
+  --text-secondary: rgb(71, 85, 105);   /* Slate 600 secondary text */
+  --text-muted: rgb(148, 163, 184);     /* Slate 400 muted text */
+
+  /* Risk Level Specifics */
+  --risk-low: rgb(16, 185, 129);
+  --risk-medium: rgb(245, 158, 11);
+  --risk-high: rgb(249, 115, 22);
+  --risk-critical: rgb(239, 68, 68);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom modern scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgb(241, 245, 249);
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(203, 213, 225);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(148, 163, 184);
+}
+
+/* Leaflet Bright Map & Popup Styling */
+.leaflet-container {
+  background: rgb(248, 250, 252) !important;
+  font-family: inherit;
+}
+.leaflet-popup-content-wrapper {
+  background: rgb(255, 255, 255) !important;
+  color: rgb(15, 23, 42) !important;
+  border: 1px solid rgb(226, 232, 240) !important;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.12), 0 8px 10px -6px rgba(15, 23, 42, 0.08) !important;
+  border-radius: 14px !important;
+  padding: 4px !important;
+}
+.leaflet-popup-tip {
+  background: rgb(255, 255, 255) !important;
+}
+
+/* Clean Table styling */
+tr:hover {
+  background-color: #f8fafc;
+}
+

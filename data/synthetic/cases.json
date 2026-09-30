@@ -1,0 +1,4682 @@
+[
+  {
+    "case_reference": "CASE-2026-0001",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0002",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0003",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0004",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0005",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0006",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0007",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0008",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0009",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0010",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0011",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0012",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0013",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0014",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0015",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0016",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0017",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0018",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0019",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0020",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0021",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0022",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0023",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0024",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0025",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0026",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0027",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0028",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0029",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0030",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0031",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0032",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0033",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0034",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0035",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0036",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0037",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0038",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0039",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0040",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0041",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0042",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0043",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0044",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0045",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0046",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0047",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0048",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0049",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0050",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0051",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0052",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0053",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0054",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0055",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0056",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0057",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0058",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0059",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0060",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0061",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0062",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0063",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0064",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0065",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0066",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0067",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0068",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0069",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0070",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0071",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0072",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0073",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0074",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0075",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0076",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0077",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0078",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0079",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0080",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0081",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0082",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0083",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0084",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0085",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0086",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0087",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0088",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0089",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0090",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0091",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0092",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0093",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0094",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0095",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0096",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0097",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0098",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0099",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0100",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0101",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0102",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0103",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0104",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0105",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0106",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0107",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0108",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0109",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0110",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0111",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0112",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0113",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0114",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0115",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0116",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0117",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0118",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0119",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0120",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0121",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0122",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0123",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0124",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0125",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0126",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0127",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0128",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0129",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0130",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0131",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0132",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0133",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0134",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0135",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0136",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0137",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0138",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0139",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0140",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0141",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0142",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0143",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0144",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0145",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0146",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0147",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0148",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0149",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0150",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0151",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0152",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0153",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0154",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0155",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0156",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0157",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0158",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0159",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0160",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0161",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0162",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0163",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0164",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0165",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0166",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0167",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0168",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0169",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0170",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0171",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0172",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0173",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0174",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0175",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0176",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0177",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0178",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0179",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0180",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0181",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0182",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0183",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0184",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0185",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0186",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0187",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0188",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0189",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0190",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0191",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0192",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0193",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0194",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0195",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0196",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0197",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0198",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0199",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0200",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0201",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0202",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0203",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0204",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0205",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0206",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0207",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0208",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0209",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0210",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0211",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0212",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0213",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0214",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0215",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0216",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0217",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0218",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0219",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0220",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0221",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0222",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0223",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0224",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0225",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0226",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0227",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0228",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0229",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0230",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0231",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0232",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0233",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0234",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0235",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0236",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0237",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0238",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0239",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0240",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0241",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0242",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0243",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0244",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0245",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0246",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0247",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0248",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0249",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0250",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0251",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0252",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0253",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0254",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0255",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0256",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0257",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0258",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0259",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0260",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0261",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0262",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0263",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0264",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0265",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0266",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0267",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0268",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0269",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0270",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0271",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0272",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0273",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0274",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0275",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0276",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0277",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0278",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0279",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0280",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0281",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0282",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0283",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0284",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0285",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0286",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0287",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0288",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0289",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0290",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0291",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0292",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0293",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0294",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0295",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0296",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0297",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0298",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0299",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0300",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0301",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0302",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0303",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0304",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0305",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0306",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0307",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0308",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0309",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0310",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0311",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0312",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0313",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0314",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0315",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0316",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0317",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0318",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0319",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0320",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0321",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0322",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0323",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0324",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0325",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0326",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0327",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0328",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0329",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0330",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0331",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0332",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0333",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0334",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0335",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0336",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0337",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0338",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0339",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0340",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0341",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0342",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0343",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0344",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0345",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0346",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0347",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0348",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0349",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0350",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0351",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0352",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0353",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0354",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0355",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0356",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0357",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0358",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0359",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0360",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0361",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0362",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0363",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0364",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0365",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0366",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0367",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0368",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0369",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0370",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0371",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0372",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0373",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0374",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0375",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0376",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0377",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0378",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0379",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0380",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0381",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0382",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0383",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0384",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0385",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0386",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0387",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0388",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0389",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0390",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0391",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0392",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0393",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0394",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0395",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0396",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0397",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0398",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0399",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0400",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0401",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0402",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0403",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0404",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0405",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0406",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0407",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0408",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0409",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0410",
+    "category": "Part-time Job Work Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0411",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0412",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0413",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0414",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0415",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0416",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0417",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0418",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0419",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0420",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0421",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0422",
+    "category": "Net Banking Phishing",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0423",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0424",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0425",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0426",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0427",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0428",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0429",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0430",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0431",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0432",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0433",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0434",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0435",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0436",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0437",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0438",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0439",
+    "category": "Net Banking Phishing",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0440",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0441",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0442",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0443",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0444",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0445",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0446",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0447",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0448",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0449",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0450",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0451",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0452",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0453",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0454",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0455",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0456",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0457",
+    "category": "SIM Swap Fraud",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0458",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0459",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0460",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0461",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0462",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0463",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0464",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0465",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0466",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0467",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0468",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0469",
+    "category": "SIM Swap Fraud",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0470",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0471",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0472",
+    "category": "Net Banking Phishing",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0473",
+    "category": "Net Banking Phishing",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0474",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0475",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0476",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0477",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0478",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0479",
+    "category": "Social Engineering Sextortion",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0480",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0481",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0482",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0483",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0484",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0485",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0486",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Gujarat",
+    "assigned_agency": "Gujarat Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0487",
+    "category": "UPI Payment Fraud",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Kerala",
+    "assigned_agency": "Kerala Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0488",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0489",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0490",
+    "category": "Part-time Job Work Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0491",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "ESCALATED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0492",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "RESOLVED",
+    "jurisdiction": "Bihar",
+    "assigned_agency": "Bihar Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0493",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0494",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "OPEN",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0495",
+    "category": "Instant Loan App APK Scam",
+    "priority": "LOW",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0496",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0497",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0498",
+    "category": "Instant Loan App APK Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0499",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "Uttar Pradesh",
+    "assigned_agency": "Uttar Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0500",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0501",
+    "category": "UPI Payment Fraud",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0502",
+    "category": "Social Engineering Sextortion",
+    "priority": "MEDIUM",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0503",
+    "category": "UPI Payment Fraud",
+    "priority": "MEDIUM",
+    "status": "RESOLVED",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0504",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Rajasthan",
+    "assigned_agency": "Rajasthan Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0505",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "RESOLVED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0506",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Tamil Nadu",
+    "assigned_agency": "Tamil Nadu Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0507",
+    "category": "Social Engineering Sextortion",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Chatterjee"
+  },
+  {
+    "case_reference": "CASE-2026-0508",
+    "category": "Part-time Job Work Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Maharashtra",
+    "assigned_agency": "Maharashtra Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0509",
+    "category": "Instant Loan App APK Scam",
+    "priority": "CRITICAL",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Sharma"
+  },
+  {
+    "case_reference": "CASE-2026-0510",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "OPEN",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0511",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "HIGH",
+    "status": "RESOLVED",
+    "jurisdiction": "West Bengal",
+    "assigned_agency": "West Bengal Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0512",
+    "category": "SIM Swap Fraud",
+    "priority": "HIGH",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Menon"
+  },
+  {
+    "case_reference": "CASE-2026-0513",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Karnataka",
+    "assigned_agency": "Karnataka Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0514",
+    "category": "UPI Payment Fraud",
+    "priority": "CRITICAL",
+    "status": "ESCALATED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0515",
+    "category": "Investment / Crypto Task Scam",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Reddy"
+  },
+  {
+    "case_reference": "CASE-2026-0516",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Madhya Pradesh",
+    "assigned_agency": "Madhya Pradesh Cyber Crime Police",
+    "assigned_officer": "Inspector Deshmukh"
+  },
+  {
+    "case_reference": "CASE-2026-0517",
+    "category": "SIM Swap Fraud",
+    "priority": "LOW",
+    "status": "OPEN",
+    "jurisdiction": "Punjab",
+    "assigned_agency": "Punjab Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  },
+  {
+    "case_reference": "CASE-2026-0518",
+    "category": "Part-time Job Work Scam",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Delhi",
+    "assigned_agency": "Delhi Cyber Crime Police",
+    "assigned_officer": "Inspector Singh"
+  },
+  {
+    "case_reference": "CASE-2026-0519",
+    "category": "Instant Loan App APK Scam",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Haryana",
+    "assigned_agency": "Haryana Cyber Crime Police",
+    "assigned_officer": "Inspector Patel"
+  },
+  {
+    "case_reference": "CASE-2026-0520",
+    "category": "Social Engineering Sextortion",
+    "priority": "HIGH",
+    "status": "ESCALATED",
+    "jurisdiction": "Telangana",
+    "assigned_agency": "Telangana Cyber Crime Police",
+    "assigned_officer": "Inspector Verma"
+  }
+]
