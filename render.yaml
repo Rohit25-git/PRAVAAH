@@ -52,8 +52,9 @@ services:
   # --------------------------------------------------------------------------
   # 2. React 18 SPA Frontend (Global CDN Static Site)
   # --------------------------------------------------------------------------
-  - type: static
+  - type: web
     name: pravaah-frontend
+    runtime: static
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
